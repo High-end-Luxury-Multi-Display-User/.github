@@ -1,7 +1,7 @@
 # Project Avalon: High-end Luxury Multi-Display Multi-User IVI System
 
 ## Introduction
-Project Avalon is a dual screen IVI system created in the span of two weeks under the mentorship and supervision of ![Eng. Karim Zidan](https://github.com/KarimZidan007) from ![DXC Luxoft](https://github.com/Luxoft).
+Project Avalon is a dual screen IVI system created in the span of two weeks under the mentorship and supervision of [Eng. Karim Zidan](https://github.com/KarimZidan007) from [DXC Luxoft](https://github.com/Luxoft).
 
 
 ## Project Showcase
